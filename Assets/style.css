@@ -50,13 +50,13 @@ nav, nav a {
 .chevron #subtitle{
     background-color: var(--light);
     width: 400px;
-    height: 18px;
+    height: auto;
     font-weight: bolder;
     font-size: 28px;
     text-align: left;
     line-height: 37px;
     align-self: flex-end;
-    z-index: 4;
+    z-index: 9000;
     outline: 3px solid var(--dark);
 
 }
@@ -70,18 +70,7 @@ h3{
     line-height: 22px;
     outline: 3px solid var(--dark);
     display: flex;
-    /* text-align: right;
-    font-size: 48px;
-    color:rgb(49, 52, 61);
-    height: 100%;
-    width: 25%;
-    padding-right: 20px; 
-    border-right: 3px solid rgb(49, 52, 61);
-    display: flex;
-    position: relative;
-    flex-direction: row; 
-    flex-wrap: wrap;
-    justify-content: center;  */
+    justify-content: flex-start;
 }    
  
 .about-me {
@@ -108,41 +97,33 @@ p{
 
 }
 .work{
+    top: 75px;
+    position: relative;
     display: flex;
     flex-direction: row;
-    width: 75%;
-    position: relative;
-    top: 50px;
+    flex-wrap: wrap;
+
 }
 
-#work{ 
-    justify-self: flex-end;
-    /* text-align: right;
-    width: 200px;
-    display: inline; 
-    /* position: relative; */
-    /* flex-flow: row wrap; 
-    flex-wrap: wrap;  
-    justify-content: flex-end; */
-     }  
+div{
+    width: 100%;
+    display: flex;
+    position: relative;
+    justify-content: flex-end;
+}
 
-.work a:hover {
-    background-color:rgba(230, 18, 46, 0.2);
+figure:hover {
+    border-style: groove var(--dark);
+    box-shadow: 0 0 6px var(--dark);
 }
 
 figure {
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row;
     position: relative;
     margin-top: 10px;
     margin-left: 10px;
-    /* border: 3px solid black; */
-}
 
-figcaption {
-    background-color: rgb(146, 204, 205);
-    color:rgb(49, 52, 61);
+    /* border: 3px solid black; */
 }
 
 #city{
@@ -150,9 +131,9 @@ figcaption {
     height: 600px; 
     object-fit: cover;
     display: flex; 
-    /* align-items: center; 
-    flex-wrap: wrap; */
-}
+    align-items: center; 
+    flex-wrap: wrap; }
+
 div {
     display: flex;
     flex-wrap: wrap;
@@ -163,31 +144,28 @@ div {
     width: 200px;
     /* height: 200px; */
     object-fit: cover;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction:row; 
     position: relative;
     align-items: flex-end; 
     /* justify-content:center; */
 
-    }
+}
 
 .image-header {
     position: absolute;
     bottom: 10px;
     left: 10px;
-    background-color:rgb(146, 204, 205);   
-    color:rgb(49, 52, 61);
+    background-color:var(--light);   
+    color:var(--dark);
+
 
 }
 
-.contact { 
-    margin:10px;
-    position: relative;
-    color:rgb(49, 52, 61);
-}
+
 footer{
-    display: inline;
+    display: block;
+    margin: 10px;
+    position: relative;
+    color: var(--dark);
 }
 
 @media only screen and (max-width: 768px) {
