@@ -1,0 +1,200 @@
+:root {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(49, 52, 61);
+    background-color: rgb(204, 204, 204);
+    --light: rgb(212, 226, 83);
+    --dark: rgb(0, 0, 0);
+    --gray: rgb(49, 52, 61);
+    --opposite: rgb(146, 204, 205);
+    --background: rgb(204,204,204);
+}
+header {
+    background-color: var(--dark);
+    height: 87.5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    background-color: var(--light);
+    color: var(--gray);
+    font-weight: bolder;
+    font-size: 36px;
+    width:400px; 
+    position: relative;
+    top: 10px;
+    text-align: right;
+    align-self:flex-end;
+    outline: 3px solid var(--dark);
+}
+
+nav, nav a {
+    text-align: right;
+    color: rgb(146, 204, 205);
+    justify-content: center;
+    margin: 5px;
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+}
+
+
+.chevron {
+    background-image:url(Chevron.jpg);
+    height: 175px; 
+    display: flex;
+    justify-content: flex-end;
+    z-index: initial;
+    border-bottom: 3px solid black;
+}
+.chevron #subtitle{
+    background-color: var(--light);
+    width: 400px;
+    height: 18px;
+    font-weight: bolder;
+    font-size: 28px;
+    text-align: left;
+    line-height: 37px;
+    align-self: flex-end;
+    z-index: 4;
+    outline: 3px solid var(--dark);
+
+}
+
+h3{
+    background-color: var(--light);
+    width: 400px;
+    height: 22px;
+    font-weight: bolder;
+    font-size: 24px;
+    line-height: 22px;
+    outline: 3px solid var(--dark);
+    display: flex;
+    /* text-align: right;
+    font-size: 48px;
+    color:rgb(49, 52, 61);
+    height: 100%;
+    width: 25%;
+    padding-right: 20px; 
+    border-right: 3px solid rgb(49, 52, 61);
+    display: flex;
+    position: relative;
+    flex-direction: row; 
+    flex-wrap: wrap;
+    justify-content: center;  */
+}    
+ 
+.about-me {
+    display: flex;
+    position: relative; 
+    top:50px;
+
+}
+
+p{
+    width: 50%;
+    margin: 20px;
+}
+
+#portrait{
+    width: 175px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 20px;
+    border: 3px solid rgb(49, 52, 61);
+    box-shadow: 5px 10px var(--light);
+    display: flex;
+    justify-content: flex-end;
+
+}
+.work{
+    display: flex;
+    flex-direction: row;
+    width: 75%;
+    position: relative;
+    top: 50px;
+}
+
+#work{ 
+    justify-self: flex-end;
+    /* text-align: right;
+    width: 200px;
+    display: inline; 
+    /* position: relative; */
+    /* flex-flow: row wrap; 
+    flex-wrap: wrap;  
+    justify-content: flex-end; */
+     }  
+
+.work a:hover {
+    background-color:rgba(230, 18, 46, 0.2);
+}
+
+figure {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 10px;
+    /* border: 3px solid black; */
+}
+
+figcaption {
+    background-color: rgb(146, 204, 205);
+    color:rgb(49, 52, 61);
+}
+
+#city{
+    width: 830px;
+    height: 600px; 
+    object-fit: cover;
+    display: flex; 
+    /* align-items: center; 
+    flex-wrap: wrap; */
+}
+div {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+#flower, #sunset, #water, #flowers{
+    width: 200px;
+    /* height: 200px; */
+    object-fit: cover;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row; 
+    position: relative;
+    align-items: flex-end; 
+    /* justify-content:center; */
+
+    }
+
+.image-header {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background-color:rgb(146, 204, 205);   
+    color:rgb(49, 52, 61);
+
+}
+
+.contact { 
+    margin:10px;
+    position: relative;
+    color:rgb(49, 52, 61);
+}
+footer{
+    display: inline;
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        flex-direction: column; }
+}
+
+@media only screen and (max-width: 414px){
+
+}
