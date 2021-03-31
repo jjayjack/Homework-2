@@ -18,3 +18,15 @@ Pictured: URL screenshot of webpage
 ![image](https://user-images.githubusercontent.com/79474830/113065059-d70fab80-917d-11eb-93ad-66244fd58fcf.png)
 ![image](https://user-images.githubusercontent.com/79474830/113065081-e3940400-917d-11eb-8789-347de70bf3d9.png)
 
+//Updated HTML to change section to footer//
+![image](https://user-images.githubusercontent.com/79474830/113071131-bfd6bb00-9189-11eb-96c9-f6e4365a79f2.png)
+Updated CSS files to include re-wording, ommissions for better readability
+![image](https://user-images.githubusercontent.com/79474830/113071223-ebf23c00-9189-11eb-9f8f-a3b428c7287b.png)
+![image](https://user-images.githubusercontent.com/79474830/113071222-ebf23c00-9189-11eb-8afe-0e78ea08ff45.png)
+![image](https://user-images.githubusercontent.com/79474830/113071261-fca2b200-9189-11eb-946e-8ca33ba6c75f.png)
+![image](https://user-images.githubusercontent.com/79474830/113071275-04faed00-918a-11eb-9208-d993f288dd0f.png)
+![image](https://user-images.githubusercontent.com/79474830/113071294-0c21fb00-918a-11eb-89b7-8eb37a1ca01f.png)
+Resulting Webpage
+![image](https://user-images.githubusercontent.com/79474830/113071366-34a9f500-918a-11eb-9b49-dd9caf13ea5c.png)
+![image](https://user-images.githubusercontent.com/79474830/113071386-3d9ac680-918a-11eb-8ac9-ce94f28ae875.png)
+
