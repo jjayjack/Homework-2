@@ -30,3 +30,16 @@ Resulting Webpage
 ![image](https://user-images.githubusercontent.com/79474830/113071366-34a9f500-918a-11eb-9b49-dd9caf13ea5c.png)
 ![image](https://user-images.githubusercontent.com/79474830/113071386-3d9ac680-918a-11eb-8ac9-ce94f28ae875.png)
 
+//Updated HTML to correspond to new CSS values
+![image](https://user-images.githubusercontent.com/79474830/113075503-ae45e100-9192-11eb-910f-67022eacbd61.png)
+![image](https://user-images.githubusercontent.com/79474830/113075531-bc93fd00-9192-11eb-99eb-c45e8f2094ce.png)
+![image](https://user-images.githubusercontent.com/79474830/113075546-c584ce80-9192-11eb-84c6-edbe61c23c6b.png)
+![image](https://user-images.githubusercontent.com/79474830/113075570-d03f6380-9192-11eb-9489-18f134faa668.png)
+![image](https://user-images.githubusercontent.com/79474830/113075599-db928f00-9192-11eb-8c21-7fdc9e06db50.png)
+![image](https://user-images.githubusercontent.com/79474830/113075620-e64d2400-9192-11eb-87f3-b293be787eee.png)
+Resulting Webpage
+![image](https://user-images.githubusercontent.com/79474830/113075640-f49b4000-9192-11eb-95f8-9c45fe02769e.png)
+![image](https://user-images.githubusercontent.com/79474830/113075664-011f9880-9193-11eb-94a9-aaf54aa2b5c8.png)
+
+
+
