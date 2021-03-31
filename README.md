@@ -1,4 +1,4 @@
-# Homework-2
+# Portfolio//
 Starting code for Portfolio
 Uploaded images, starting paragraphs and initial CSS codes
 ** DID NOT GET SCREENSHOT**
@@ -40,6 +40,45 @@ Resulting Webpage
 Resulting Webpage
 ![image](https://user-images.githubusercontent.com/79474830/113075640-f49b4000-9192-11eb-95f8-9c45fe02769e.png)
 ![image](https://user-images.githubusercontent.com/79474830/113075664-011f9880-9193-11eb-94a9-aaf54aa2b5c8.png)
+
+//Updated HTML paragraph with new information
+![image](https://user-images.githubusercontent.com/79474830/113084903-8790a600-91a4-11eb-861a-f7111fdd44a7.png)
+
+//Updated CSS to adjust widths, headers, content while using media query
+![image](https://user-images.githubusercontent.com/79474830/113085341-3f25b800-91a5-11eb-8b50-82aaa3abbcce.png)
+![image](https://user-images.githubusercontent.com/79474830/113085400-549ae200-91a5-11eb-9312-6f3a97a3d724.png)
+![image](https://user-images.githubusercontent.com/79474830/113085481-82802680-91a5-11eb-9143-9bb92a7de25c.png)
+![image](https://user-images.githubusercontent.com/79474830/113085531-9d529b00-91a5-11eb-9b1a-42b4b2077fda.png)
+![image](https://user-images.githubusercontent.com/79474830/113085555-b1969800-91a5-11eb-9695-6ab4833e90e2.png)
+![image](https://user-images.githubusercontent.com/79474830/113085584-c2470e00-91a5-11eb-8e05-99340b86969b.png)
+![image](https://user-images.githubusercontent.com/79474830/113085649-d985fb80-91a5-11eb-8092-ee2562aec18e.png)
+![image](https://user-images.githubusercontent.com/79474830/113085684-ea367180-91a5-11eb-85f0-5961433b0006.png)
+
+//Final website
+![image](https://user-images.githubusercontent.com/79474830/113085927-50bb8f80-91a6-11eb-807a-6f4a01b07210.png)
+![image](https://user-images.githubusercontent.com/79474830/113085964-5e711500-91a6-11eb-919c-ad300e2df72c.png)
+  //992px
+  ![image](https://user-images.githubusercontent.com/79474830/113086083-97a98500-91a6-11eb-91b2-92e9773a17fd.png)
+  ![image](https://user-images.githubusercontent.com/79474830/113086131-b3149000-91a6-11eb-8399-8262861cc158.png)
+  ![image](https://user-images.githubusercontent.com/79474830/113086170-c4f63300-91a6-11eb-99d4-f0f59008fa5e.png)
+  
+  //917px
+  ![image](https://user-images.githubusercontent.com/79474830/113086275-f5d66800-91a6-11eb-96e3-4a8ea3055330.png)
+  ![image](https://user-images.githubusercontent.com/79474830/113086310-04bd1a80-91a7-11eb-9e46-4ced6d1c50d2.png)
+  ![image](https://user-images.githubusercontent.com/79474830/113086342-0f77af80-91a7-11eb-9f54-8dfd35f120f8.png)
+  
+  //600px
+  ![image](https://user-images.githubusercontent.com/79474830/113086423-2fa76e80-91a7-11eb-8c3d-563cb0664d9c.png)
+  ![image](https://user-images.githubusercontent.com/79474830/113086451-3e8e2100-91a7-11eb-900d-0ece8c041d2d.png)
+  ![image](https://user-images.githubusercontent.com/79474830/113086489-54034b00-91a7-11eb-91c3-4ae9a31247f6.png)
+  ![image](https://user-images.githubusercontent.com/79474830/113086495-582f6880-91a7-11eb-96ba-7a29ddd3c1cd.png)
+
+
+
+
+
+
+
 
 
 
