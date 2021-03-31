@@ -1,6 +1,5 @@
 :root {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:rgb(49, 52, 61);
     background-color: rgb(204, 204, 204);
     --light: rgb(212, 226, 83);
     --dark: rgb(0, 0, 0);
@@ -17,7 +16,7 @@ header {
 
 h1 {
     background-color: var(--light);
-    color: var(--gray);
+    color: var(--dark);
     font-weight: bolder;
     font-size: 36px;
     width:400px; 
@@ -30,11 +29,10 @@ h1 {
 
 nav, nav a {
     text-align: right;
-    color: rgb(146, 204, 205);
+    color: var(--light);
     justify-content: center;
-    margin: 5px;
+    margin: 27px;
     display: flex;
-    justify-content: flex-end;
     font-weight: bold;
 }
 
@@ -106,7 +104,7 @@ p{
 }
 
 div{
-    width: 100%;
+    width: 92%;
     display: flex;
     position: relative;
     justify-content: flex-end;
@@ -163,9 +161,30 @@ div {
 
 footer{
     display: block;
-    margin: 10px;
+    margin-top: 100px;
     position: relative;
-    color: var(--dark);
+    background-color: var(--dark);
+
+}
+footer .chevron {
+    height: 53px; 
+    border-top: 3px solid black;
+
+}
+#contact {
+    position: relative;
+    top: -12px;
+    justify-content: flex-end;
+
+}
+footer a{
+    font-weight: bold;
+    color: var(--light);
+    height: 36px;
+    margin-top: 27px;
+    display: inline-flex;
+    margin-left: 150px;
+    
 }
 
 @media only screen and (max-width: 768px) {
@@ -174,5 +193,7 @@ footer{
 }
 
 @media only screen and (max-width: 414px){
-
+body{
+    width: 50%;
+}
 }
