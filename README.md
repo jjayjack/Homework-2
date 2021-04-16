@@ -1,4 +1,8 @@
 # Portfolio//
+//Updated to include new link for MovieGO!
+
+//Deploy link
+https://jjayjack.github.io/Portfolio/
 Starting code for Portfolio
 Uploaded images, starting paragraphs and initial CSS codes
 ** DID NOT GET SCREENSHOT**
